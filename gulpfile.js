@@ -1,9 +1,9 @@
-var gulp 		= require('gulp');
-var	browserify  = require('browserify');
-var	reactify    = require('reactify');
-var	through2 	= require('through2');
-var	concat		= require('gulp-concat');
-var	plumber 	= require('gulp-plumber');
+var gulp = require('gulp');
+var	browserify = require('browserify');
+var	reactify = require('reactify');
+var	through2 = require('through2');
+var	concat = require('gulp-concat');
+var	plumber = require('gulp-plumber');
 
 gulp.task('browserify', function () {
 	gulp.src('./src/main.js')
