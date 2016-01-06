@@ -1,4 +1,4 @@
 {
-	"directory": "dest/lib",
+	"directory": "dist/lib",
 	"json": "bower.json"
 }
