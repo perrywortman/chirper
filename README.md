@@ -1,2 +1,2 @@
 # chirper
-A very simple Twitter clone built with React and Flux
+A very simple Twitter clone built with Express, React, and Flux
