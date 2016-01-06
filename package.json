@@ -23,5 +23,9 @@
     "gulp-plumber": "^1.0.1",
     "reactify": "^1.1.1",
     "through2": "^2.0.0"
+  },
+  "dependencies": {
+    "ejs": "^2.3.4",
+    "express": "^4.13.3"
   }
 }
